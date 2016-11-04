@@ -1,0 +1,8 @@
+c:\users\eskca\documents\visual studio 2015\Projects\RobotController\bin\Debug\RobotController.exe.config
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\bin\Debug\RobotController.exe
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\bin\Debug\RobotController.pdb
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\bin\Debug\Ninject.dll
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\bin\Debug\Ninject.xml
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.exe
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.pdb
+C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.csprojResolveAssemblyReference.cache
